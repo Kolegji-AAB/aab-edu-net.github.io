@@ -6,7 +6,7 @@ Welcome to the **official GitHub Pages** of [AAB College](https://aab-edu.net).
 This repository hosts the public website for AAB College projects, research, and open-source tools.
 
 ## 🌍 Live Website
-Visit: [https://aab-edu-net.github.io](https://aab-edu-net.github.io)
+Visit: [https://github.com/Kolegji-AAB/aab-edu-net.github.io]
 
 ## 📂 Projects
 - Research Publications
